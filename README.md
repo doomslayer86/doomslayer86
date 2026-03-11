@@ -1,7 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Rip and tear, until it is done</h1>
 
-<p>Welcome to my page! </br> I'm Saurabh, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Dehradun, India</b></p>
-<h3>Things I code with</h3>
+<h3>Arsenal</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
